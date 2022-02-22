@@ -39,6 +39,7 @@ gem "bootsnap", require: false
 # Use ActiveModel has_secure_password
 gem 'bcrypt'
 gem 'jwt'
+gem 'active_model_serializers'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
